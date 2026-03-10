@@ -59,3 +59,4 @@ When I'm not modeling market volatility, I'm likely:
 *"Anticipating the future through stochastic rigor."*
 
  
+ 
